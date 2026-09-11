@@ -1,0 +1,6 @@
+{
+  "name": "Text Composables List",
+  "description": "A simple text composables application featuring a responsive scrollable list and project migration guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
